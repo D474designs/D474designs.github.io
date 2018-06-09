@@ -1,9 +1,13 @@
+.row {
+  width: 100%;
+}
+
 .column {
   float: center;
   width: 33.33%;
 }
 
-.column {
+.column2 {
   float: center;
   width: 20%;
 }
