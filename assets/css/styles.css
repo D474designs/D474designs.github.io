@@ -3,9 +3,12 @@
 }
 
 .column {
-  float: center;
+  float: center
+  width: 20%;
 }
 
 .column2 {
   float: center;
+  width: 20%;
+
 }
