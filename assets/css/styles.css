@@ -12,3 +12,32 @@
   width: 100%;
 
 }
+
+.rainbow {
+
+ -webkit-animation: rainbow 3s infinite;
+
+
+ -ms-animation: rainbow 3s infinite;
+
+
+ animation: rainbow 3s infinite;
+}
+
+
+@-webkit-keyframes rainbow{
+    20%{color: red;}
+    80%{color: blue;}
+
+}
+
+@-ms-keyframes rainbow{
+    20%{color: red;}
+    80%{color: blue;}
+}
+
+
+@keyframes rainbow{
+    5%{color: red;}
+    85%{color: blue;}
+}
