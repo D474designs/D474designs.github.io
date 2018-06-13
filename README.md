@@ -1,6 +1,6 @@
 ## Welcome to D474designs
 
-### [www.D474designs.webs.com](https://www.D474designs.webs.com) [x](https://www.ThatHill.webs.com) [www.D474media.webs.com](https://www.D474media.webs.com)
+### [www.D474designs.webs.com](http://www.D474designs.webs.com) [x](http://www.ThatHill.webs.com) [www.D474media.webs.com](http://www.D474media.webs.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
