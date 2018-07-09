@@ -41,3 +41,17 @@
     5%{color: red;}
     85%{color: blue;}
 }
+
+.dailyVersesWrapper a
+{
+    color:#000;
+    font-weight:bold;
+}
+
+.dailyVerses.linkToWebsite a
+{
+    opacity:0.8;
+    font-size:21px;
+    text-decoration:none;
+    
+}
