@@ -1464,15 +1464,15 @@
 }
 
 .cybr-btn:nth-of-type(2) {
-  --primary-hue: 260;
+  --primary-hue: 440;
 }
 
 .cybr-btn:nth-of-type(3) {
-  
+  --primary-hue: 260;
 }
 
 .cybr-btn:nth-of-type(4) {
-  --primary-hue: 260;
+  --primary-hue: 520;
 }
 
 .wrapper {
