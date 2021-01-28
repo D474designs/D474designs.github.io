@@ -1499,7 +1499,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 2vw;
+  font-size: 5vw;
 }
 
 .typing-demo2 {
@@ -1509,7 +1509,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo3 {
@@ -1519,7 +1519,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo4 {
@@ -1529,7 +1529,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo5 {
@@ -1539,7 +1539,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo6 {
@@ -1549,7 +1549,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo7 {
@@ -1559,7 +1559,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo8 {
@@ -1569,7 +1569,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo9 {
@@ -1579,7 +1579,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1.5vw;
 }
 
 .typing-demo99 {
@@ -1589,7 +1589,7 @@
   overflow: hidden;
   border-right: 3px solid;
   font-family: monospace;
-  font-size: 2vw;
+  font-size: 4vw;
 }
 
 @keyframes typing {
