@@ -7,13 +7,16 @@
     box-sizing: border-box;
 }
 
-.mc500 {
-    height: 100%;
-    width: 100%;
-    min-height: 100vh;
-    background-image: linear-gradient(#17161C, #0F0D17);
-    background-size: 100% 100%;
-    font-family: "MC500", Helvetica, arial, sans-serif;
+@media screen and (max-width: 640px) {
+  .mc500 {
+      display: none;
+      height: 100%;
+      width: 100%;
+      min-height: 100vh;
+      background-image: linear-gradient(#17161C, #0F0D17);
+      background-size: 100% 100%;
+      font-family: "MC500", Helvetica, arial, sans-serif;
+  }
 }
 
 .illustration {
