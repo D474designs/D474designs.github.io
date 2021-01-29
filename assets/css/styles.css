@@ -1292,6 +1292,12 @@
 
 }
 
+@media screen and (max-width: 830px) {
+  .cyberlinebreak {
+      display: none;
+  }
+}
+
 .cybr-btn + .cybr-btn {
   margin-top: 2rem;
 }
