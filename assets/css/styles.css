@@ -1512,8 +1512,8 @@
 }
 
 .typing-demo2 {
-  width: 117ch;
-  animation: typing 2s steps(117), blink .5s step-end infinite alternate;
+  width: 107ch;
+  animation: typing 2s steps(107), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -1522,8 +1522,8 @@
 }
 
 .typing-demo3 {
-  width: 106ch;
-  animation: typing 2s steps(106), blink .5s step-end infinite alternate;
+  width: 90ch;
+  animation: typing 2s steps(90), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -1532,8 +1532,8 @@
 }
 
 .typing-demo4 {
-  width: 108ch;
-  animation: typing 2s steps(108), blink .5s step-end infinite alternate;
+  width: 99ch;
+  animation: typing 2s steps(99), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -1542,8 +1542,8 @@
 }
 
 .typing-demo5 {
-  width: 105ch;
-  animation: typing 2s steps(105), blink .5s step-end infinite alternate;
+  width: 101ch;
+  animation: typing 2s steps(101), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
@@ -1552,8 +1552,8 @@
 }
 
 .typing-demo6 {
-  width: 111ch;
-  animation: typing 2s steps(111), blink .5s step-end infinite alternate;
+  width: 109ch;
+  animation: typing 2s steps(109), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
