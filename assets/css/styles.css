@@ -19,6 +19,30 @@
   }
 }
 
+@media screen and (min-width: 830px) {
+  .rotateyourscreen {
+      display: none;
+  }
+}
+
+.rotateyourscreen {
+    font-family: "Source Code Pro", monospace;
+    width: 43ch;
+    animation: typing 2s steps(43), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 1.5vw;
+    -webkit-animation: rainbow 7s infinite;
+
+
+    -ms-animation: rainbow 7s infinite;
+
+
+    animation: rainbow 7s infinite;
+}
+
 .illustration {
     display: block;
     width: 810px;
