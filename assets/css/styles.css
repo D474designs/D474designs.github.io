@@ -1292,7 +1292,7 @@
 
 }
 
-@media screen and (max-width: 829px) {
+@media screen and (min-width: 829px) {
   .cyberlinebreak {
       display: none;
   }
