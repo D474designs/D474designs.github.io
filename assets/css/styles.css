@@ -1322,6 +1322,15 @@
   }
 }
 
+.button-div {
+  align:right;
+  align-items:right;
+  align-content: right;
+  text-align: right;
+  justify: right;
+}
+
+
 .cybr-btn + .cybr-btn {
   margin-top: 2rem;
 }
