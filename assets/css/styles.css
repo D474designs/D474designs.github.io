@@ -1712,6 +1712,33 @@ a {
 
 }
 
+.matrix {
+  -webkit-animation: matrix 3s infinite;
+
+
+  -ms-animation: matrix 3s infinite;
+
+
+  animation: matrix 3s infinite;
+}
+
+@-webkit-keyframes matrix{
+    20%{color: powderBlue;}
+    80%{color: limeGreen;}
+
+}
+
+@-ms-keyframes matrix{
+    20%{color: powderBlue;}
+    80%{color: limeGreen;}
+}
+
+
+@keyframes matrix{
+    5%{color: powderBlue;}
+    85%{color: limeGreen;}
+}
+
 /*
 Copyright (c) 2021 by Sarah Fossheim (https://codepen.io/fossheim/pen/BaKQGZJ)
 
