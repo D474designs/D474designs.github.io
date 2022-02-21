@@ -49,7 +49,9 @@
     height: 740px;
     margin: 0 auto;
     position: relative;
+    /*
     top: calc(50vh - 360px);
+    */
 }
 
 .synth {
