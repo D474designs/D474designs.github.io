@@ -14,11 +14,16 @@ body {
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-}
-.fire {
+
   position: fixed;
   top: 7vh;
 }
+
+/*
+.fire {
+
+}
+*/
 
 .ball {
   animation: float 3.5s ease-in-out infinite;
