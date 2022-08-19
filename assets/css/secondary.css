@@ -15,6 +15,9 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+.fire {
+
+}
 
 .ball {
   animation: float 3.5s ease-in-out infinite;
