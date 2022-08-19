@@ -28,7 +28,11 @@ body {
   height: 200px;
   width: 200px;
   border-radius: 50%;
+  /*
   position: relative;
+  */
+  position: fixed;
+  top: 7vh;
 
   background: radial-gradient(
     circle at 75% 30%,
