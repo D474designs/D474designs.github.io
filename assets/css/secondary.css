@@ -121,7 +121,7 @@ a {
 
 .dailyVersesWrapper {
   color: red;
-  text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+  text-shadow:1px 1px 10px #000, 1px 1px 10px #ccc;
   align-items: center;
   justify-content: center;
 }
