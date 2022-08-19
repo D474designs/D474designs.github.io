@@ -14,14 +14,12 @@ body {
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-
-  position: fixed;
-  top: 21vh;
 }
 
 /*
 .fire {
-
+  position: fixed;
+  top: 7vh;
 }
 */
 
