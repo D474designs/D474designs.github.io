@@ -32,7 +32,7 @@ body {
   position: relative;
   */
   position: fixed;
-  top: 21vh;
+  top: 20%;
 
   background: radial-gradient(
     circle at 75% 30%,
@@ -62,7 +62,7 @@ body {
   background: #b490b2;
   width: 300px;
   height: 80px;
-  top: 70%;
+  bottom: 20%;
   animation: expand 3.5s infinite;
   position: fixed;
   border-radius: 50%;
