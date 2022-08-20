@@ -131,6 +131,7 @@ a {
 @media only screen and (max-height: 700px) {
   .shadow {
     display: none;
+    z-index: -1;
   }
 }
 
