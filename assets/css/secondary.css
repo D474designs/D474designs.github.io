@@ -128,7 +128,7 @@ a {
   justify-content: center;
 }
 
-@media only screen and (max-height: 500px) {
+@media only screen and (max-height: 700px) {
   .shadow {
     display: none;
   }
