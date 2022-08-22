@@ -101,6 +101,7 @@ body {
     height: 20px;
     bottom: 20%;
     animation: expand 4s infinite;
+    z-index: -1;
   }
 
   @keyframes float {
@@ -131,7 +132,6 @@ a {
 @media only screen and (max-height: 700px) {
   .shadow {
     display: none;
-    z-index: -1;
   }
 }
 
