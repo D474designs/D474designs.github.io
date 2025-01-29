@@ -4,4 +4,4 @@
 # && Web Design && Advertisement
 ## "For all Your Multi-Media Solutions!"
 
-### [D474designs](https://www.D474designs.github.io) [x](https://That-Hill.github.io) [D474media](https://www.D474media.github.io)
+### [D474designs](https://D474designs.github.io) [x](https://That-Hill.github.io) [D474media](https://D474media.github.io)
